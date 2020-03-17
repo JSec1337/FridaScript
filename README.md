@@ -1,4 +1,4 @@
 # FridaScript
 
-This Frida Script From Android 
+This Frida Script From Android <br>
 Frida Server
